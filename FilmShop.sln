@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmLibrary", "FilmLibrary\FilmLibrary.csproj", "{AC49CB1D-B2F2-46F3-9C21-21FE0B14F39C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmConsole", "FilmConsole\FilmConsole.csproj", "{C2F0CA1D-0467-442D-AB6A-0E2157E5B899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFilm", "TestFilm\TestFilm.csproj", "{D5B2952E-07B0-48B0-A7E9-732F1F860956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC49CB1D-B2F2-46F3-9C21-21FE0B14F39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC49CB1D-B2F2-46F3-9C21-21FE0B14F39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC49CB1D-B2F2-46F3-9C21-21FE0B14F39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC49CB1D-B2F2-46F3-9C21-21FE0B14F39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F0CA1D-0467-442D-AB6A-0E2157E5B899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F0CA1D-0467-442D-AB6A-0E2157E5B899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F0CA1D-0467-442D-AB6A-0E2157E5B899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F0CA1D-0467-442D-AB6A-0E2157E5B899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B2952E-07B0-48B0-A7E9-732F1F860956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B2952E-07B0-48B0-A7E9-732F1F860956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B2952E-07B0-48B0-A7E9-732F1F860956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B2952E-07B0-48B0-A7E9-732F1F860956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F8722B-43C3-46CA-BCC6-E4D938793BAA}
+	EndGlobalSection
+EndGlobal
