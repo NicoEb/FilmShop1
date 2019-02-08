@@ -11,5 +11,10 @@ namespace FilmConsole
         static void Main(string[] args)
         {
         }
+
+        public void AddFilm()
+        {
+            AddFilm
+        }
     }
 }
