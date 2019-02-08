@@ -12,9 +12,6 @@ namespace FilmConsole
         {
         }
 
-        public void AddFilm()
-        {
-            AddFilm
-        }
+        
     }
 }
