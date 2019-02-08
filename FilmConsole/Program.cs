@@ -12,6 +12,14 @@ namespace FilmConsole
         {
         }
 
-        
+        public void AddFilm()
+        {
+            
+        }
+
+        public void AddPersonne()
+        {
+
+        }
     }
 }
