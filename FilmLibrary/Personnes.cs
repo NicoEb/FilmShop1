@@ -73,7 +73,7 @@ namespace FilmLibrary
 
         public static String SePresenter(Personnes p)
         {
-            String presentation = "Bonjour je m'appelle " + p.Nomcomplet1 + ". J'ai " + p.Age + "ans. J'habite à " + p.Ville1;
+            string presentation = "Bonjour je m'appelle " + p.Nomcomplet1 + ". J'ai " + p.Age + "ans. J'habite à " + p.Ville1;
 
             return presentation;
         }
